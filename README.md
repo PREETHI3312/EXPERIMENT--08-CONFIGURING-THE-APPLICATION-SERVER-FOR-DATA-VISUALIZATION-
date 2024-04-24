@@ -1,4 +1,6 @@
 # EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
+## NAME: A K PREETHI
+## REG NO: 212223230156
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
@@ -29,7 +31,10 @@ As the application server market matures, high performance becomes a stronger cr
 
 ## OUTPUT 
  
-![image](https://github.com/vasanthkumarch/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/36288975/8ead363c-7b62-42de-8918-2493fdf96696)
+![Screenshot (38)](https://github.com/PREETHI3312/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/151625222/f28a7796-26dc-4457-921d-b4ab6791e683)
+![Screenshot (39)](https://github.com/PREETHI3312/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/151625222/67c0a3c2-c7b3-4224-bb4f-638dde907d89)
+
+![Screenshot (40)](https://github.com/PREETHI3312/EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-/assets/151625222/73b0c22e-0d6d-4a42-8abb-16c09f9398f3)
 
 
 
