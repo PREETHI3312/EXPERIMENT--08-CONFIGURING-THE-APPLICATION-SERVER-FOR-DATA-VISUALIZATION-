@@ -1,6 +1,8 @@
-# EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
 ## NAME: A K PREETHI
 ## REG NO: 212223230156
+
+# EXPERIMENT--08-CONFIGURING-THE-APPLICATION-SERVER-FOR-DATA-VISUALIZATION-
+
  
 ## Aim: To  configure  the Application server and visualize the data on the dashboard 
 ## Components required: Iot application server 
